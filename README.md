@@ -34,7 +34,7 @@ This project aims to forecast **weekly sales** for Walmart stores using real-wor
 
 ## 📁 Dataset Details
 
-- **Source**: [Kaggle Walmart Sales Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle Walmart Sales Dataset](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data)
 - **Files Used**:
   - `features.csv` – Store-level information
   - `stores.csv` – Store type and size
